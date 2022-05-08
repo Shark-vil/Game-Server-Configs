@@ -24,3 +24,7 @@ A vanilla/generic server is unchanged from what the game developer intended. It 
 **How to contribute**
 
 There are many different game servers many of which are different. If you run a game server and wish to improve a config please fork this repo and do a PR or if you are not used to Git raise an issue with your changes so it can be added.
+
+
+**LinuxGSM**
+https://github.com/Shark-vil/LinuxGSM
