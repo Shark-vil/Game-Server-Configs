@@ -17,5 +17,5 @@ jobs:
         ssh_private_key: ${{ secrets.BITBUCKET_SECRET }}
         source_repo: "https://github.com/Shark-vil/Game-Server-Configs"
         source_branch: "master"
-        destination_repo: "git@bitbucket.org:Shark-vil/game-server-configs.git"
+        destination_repo: "git@bitbucket.org:shark_vil/game-server-configs.git"
         destination_branch: "master"
